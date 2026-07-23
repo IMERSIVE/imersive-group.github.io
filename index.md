@@ -13,6 +13,7 @@ permalink: /
   </div>
 </div>
 
+---
 > **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
 > *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
 ---
@@ -25,6 +26,8 @@ permalink: /
     <img src="{{ '/fotos/background.png' | relative_url }}" class="img-fluid rounded shadow" alt="IMERSIVE research group collaboration visualization" style="width: 100%;">
   </div>
 </div>
+
+---
 
 <!-- ABOUT US SECTION -->
 
