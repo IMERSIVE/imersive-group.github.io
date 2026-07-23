@@ -3,9 +3,14 @@ layout: page
 title: People
 ---
 
-# Principal Investigator
-* **Prof. [Seu Nome]** — Associate Professor, IME-USP.
+### 👥 Team
 
-# Graduate Students
-* **[Nome do Aluno 1]** — MSc Candidate
-* **[Nome do Aluno 2]** — PhD Candidate
+#### **Principal Investigator**
+* **Prof. Maicon J. Karling** — maiconkarling@ime.usp.br
+
+#### **Graduate Researchers**
+* **Igor Gusev** — MSc Student *(Focus: Dynamic Linear Models and Particle Filters)*
+* **Karla S. T. dos Santos Silva** — MSc Student *(Focus: Education and Machine Learning)*
+* **Moisés A. Benítez Soriano** — MSc / PhD Student *(Focus: Selection Models and Variational Inference)*
+
+---
