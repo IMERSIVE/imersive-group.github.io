@@ -2,11 +2,9 @@
 layout: default
 title: Home
 permalink: /
-image: /fotos/background.png  # ADD THIS LINE
-# Optional: You can also use "nav: true" if this is the only entry point.
+image: /fotos/background.png
 # nav: true
-# Optional: You can add an image_alt for accessibility
-# image_alt: "IMERSIVE research group collaborating on data visualization and Bayesian analysis."
+image_alt: "Grupo de pesquisa IMERSIVE colaborando em visualização de dados estatísticos."
 ---
 
 <div class="row text-center mt-5">
@@ -18,7 +16,7 @@ image: /fotos/background.png  # ADD THIS LINE
 
 # The IMERSIVE Group
 
-> **Innovative Modeling for Environmental Real-time Statistics, Inference, Visualization & Estimation**  
+> **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
 > *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
 
 ---
