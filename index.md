@@ -5,7 +5,7 @@ title: Home
 
 # The IMERSIVE Group
 
-> **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
+> **Innovative Modeling for Environmental Real-time Statistics, Inference, Visualization & Estimation**  
 > *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
 
 ---
