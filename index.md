@@ -12,6 +12,7 @@ permalink: /
     <h1>Welcome to The IMERSIVE Group</h1>
   </div>
 </div>
+
 > **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
 > *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
 ---
