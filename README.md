@@ -1,6 +1,6 @@
 # The IMERSIVE Group
 
-> **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
+> **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Exploration**  
 > *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
 
 ---
