@@ -11,7 +11,7 @@ permalink: /
 <!-- TEXT HEADER SECTION -->
 <div class="row text-center mt-5 mb-3">
   <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-    <h1>Welcome to The IMERSIVE Group</h1>
+    <h1>Welcome to The IMERSIVE Research Group</h1>
   </div>
 </div>
 
